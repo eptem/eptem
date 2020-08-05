@@ -8,5 +8,9 @@
 
 import Foundation
 
-print("Hello, World!")
-
+final class CocoaTest {
+    
+    func baseFunc() {
+        print("Hello, World!")
+    }
+}
